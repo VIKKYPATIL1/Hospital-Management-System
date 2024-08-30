@@ -1,23 +1,80 @@
-Hospital Management System
-Overview
-The Hospital Management System is a robust application designed to streamline hospital operations, including patient management, doctor information, and appointment scheduling. Built with a modern technology stack, this system enhances operational efficiency and provides a user-friendly interface for both hospital staff and patients.
+# Hospital Management System
 
-Tech Stack
-Java: Utilized for the core application logic and database interactions.
-MySQL: Relational database management system used to store and manage patient and doctor information, as well as appointment records.
-JDBC: Java Database Connectivity (JDBC) for connecting and executing SQL queries on the MySQL database.
-Scanner: Java utility used for capturing user input from the console.
-Features
-Add Patient: Allows the addition of new patients to the system with essential details like name, age, and gender.
-View Patients: Provides a comprehensive list of all registered patients, including their IDs, names, ages, and genders.
-View Doctors: Displays information about available doctors, including their IDs, names, and specializations.
-Book Appointment: Enables scheduling appointments between patients and doctors, ensuring the selected doctor is available on the desired date.
-Installation
-Clone the Repository:
+## Overview
 
-bash
-Copy code
-git clone https://github.com/your-username/hospital-management-system.git
+The **Hospital Management System** is a robust application designed to streamline hospital operations, including patient management, doctor information, and appointment scheduling. Built with a modern technology stack, this system enhances operational efficiency and provides a user-friendly interface for both hospital staff and patients.
+
+## Tech Stack
+
+- **Java**: Utilized for the core application logic and database interactions.
+- **MySQL**: Relational database management system used to store and manage patient and doctor information, as well as appointment records.
+- **JDBC**: Java Database Connectivity (JDBC) for connecting and executing SQL queries on the MySQL database.
+- **Scanner**: Java utility used for capturing user input from the console.
+
+## Features
+
+- **Add Patient**: Allows the addition of new patients to the system with essential details like name, age, and gender.
+- **View Patients**: Provides a comprehensive list of all registered patients, including their IDs, names, ages, and genders.
+- **View Doctors**: Displays information about available doctors, including their IDs, names, and specializations.
+- **Book Appointment**: Enables scheduling appointments between patients and doctors, ensuring the selected doctor is available on the desired date.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/hospital-management-system.git
+# Hospital Management System
+
+## Overview
+
+The **Hospital Management System** is a robust application designed to streamline hospital operations, including patient management, doctor information, and appointment scheduling. Built with a modern technology stack, this system enhances operational efficiency and provides a user-friendly interface for both hospital staff and patients.
+
+## Tech Stack
+
+- **Java**: Utilized for the core application logic and database interactions.
+- **MySQL**: Relational database management system used to store and manage patient and doctor information, as well as appointment records.
+- **JDBC**: Java Database Connectivity (JDBC) for connecting and executing SQL queries on the MySQL database.
+- **Scanner**: Java utility used for capturing user input from the console.
+
+## Features
+
+- **Add Patient**: Allows the addition of new patients to the system with essential details like name, age, and gender.
+- **View Patients**: Provides a comprehensive list of all registered patients, including their IDs, names, ages, and genders.
+- **View Doctors**: Displays information about available doctors, including their IDs, names, and specializations.
+- **Book Appointment**: Enables scheduling appointments between patients and doctors, ensuring the selected doctor is available on the desired date.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/hospital-management-system.git
+# Hospital Management System
+
+## Overview
+
+The **Hospital Management System** is a robust application designed to streamline hospital operations, including patient management, doctor information, and appointment scheduling. Built with a modern technology stack, this system enhances operational efficiency and provides a user-friendly interface for both hospital staff and patients.
+
+## Tech Stack
+
+- **Java**: Utilized for the core application logic and database interactions.
+- **MySQL**: Relational database management system used to store and manage patient and doctor information, as well as appointment records.
+- **JDBC**: Java Database Connectivity (JDBC) for connecting and executing SQL queries on the MySQL database.
+- **Scanner**: Java utility used for capturing user input from the console.
+
+## Features
+
+- **Add Patient**: Allows the addition of new patients to the system with essential details like name, age, and gender.
+- **View Patients**: Provides a comprehensive list of all registered patients, including their IDs, names, ages, and genders.
+- **View Doctors**: Displays information about available doctors, including their IDs, names, and specializations.
+- **Book Appointment**: Enables scheduling appointments between patients and doctors, ensuring the selected doctor is available on the desired date.
+
+## Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/hospital-management-system.git
+
+
 Set Up MySQL Database:
 
 Create a database named hospital.
